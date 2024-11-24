@@ -84,12 +84,12 @@ Output:
 - Use strong and memorable passwords.
 - The same password and `salt.txt` must be used for decryption.
 
-2. Salt Management:
+2. **Salt Management:**
 
 - Ensure `salt.txt` is not lost; it is required for decryption.
 - Do not reuse salts across different files for security reasons.
 
-3. Error Handling:
+3. **Error Handling:**
 
 - If the script encounters incorrect passwords or missing salt, it will raise errors.
 
