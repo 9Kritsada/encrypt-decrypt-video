@@ -19,7 +19,6 @@ Before using the script, ensure you have the following installed:
 
 - Python 3.6+
 - The `pycryptodome` library:
--
 
 ```bash
 pip install pycryptodome
