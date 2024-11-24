@@ -60,7 +60,6 @@ Output:
 
 - Encrypted file: `my_video.encrypted`
 - Salt saved in `salt.txt`.
--
 
 2. **Decrypt a Video:**
 
